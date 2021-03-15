@@ -9,5 +9,5 @@ It contains a word classifier to determine the language of word.<br/>
 The data used for above model is derived from [pytorch tutorial data](https://download.pytorch.org/tutorial/data.zip)<br/>
 It contais text from 18 different languages in the folder names.
 ## [Machine_Translation](Machine_Translation.ipynb) <br/>
-The data used is same as that of pytorch tutorial from above.<br\>
+The data used is same as that of pytorch tutorial from above.<br/>
 We are translating from french to english.
